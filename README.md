@@ -1,2 +1,17 @@
-# SWDV-630---Object-Oriented-Software-Architecture-
-This course investigates the utility of objects in more sophisticated application architectures
+# Project Title
+
+Business Statistics
+
+## Description
+
+
+What did I learn?
+
+
+## Authors
+
+Contributor's names and contact info
+
+Kiauna N
+
+
